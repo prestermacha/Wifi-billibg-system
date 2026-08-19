@@ -1,0 +1,17 @@
+# core/
+# accounts/
+# tenants/
+# companies/
+# branches/
+# customers/
+# packages/
+# subscriptions/
+# payments/
+# invoices/
+# vouchers/
+# routers/
+# hotspots/
+# sms/
+# notifications/
+# reports/
+# audit_logs/
